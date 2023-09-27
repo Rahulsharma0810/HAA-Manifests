@@ -26,7 +26,7 @@ Protocol `8`
 TIMER `6996F300` (Could be pressed multiple times, For example, 4)
 Protocol `8` 
 
-LED `6996F300`
+LED `6897F300`
 Protocol `8` 
 
 Sleep `718EF300`
